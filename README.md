@@ -1,0 +1,1 @@
+Neste repositório encontra-se um notebook abordando um problema de classficação com foco em como analisar a perfomance de um modelo de classificação e também como utilizar o modelo para tomar decisões voltados para o negócio
